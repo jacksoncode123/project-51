@@ -1,0 +1,35 @@
+.head{
+      
+  background-color: yellow;
+  border:solid;
+  font-family: fantasy;
+   }
+
+   .note{
+     background-color: orange;
+     border: dotted;
+   }
+
+.menu{
+display: flex;
+   justify-content: space-between;
+   padding: 5px;
+   font-size: 30px;
+   font-family: sans-serif;
+   font-weight: 300;
+   color: #000000;
+}
+
+.img{
+border: solid;
+}
+
+.grid {
+  background: darkred;
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
